@@ -1,7 +1,6 @@
 # Code-Wars
 
-Welcome to my personal collection of solutions for problems from CodeWars. This repository serves as a log of my programming journey and a reference for the algorithmic techniques I've learned.
-
+Welcome to my personal collection of solutions for problems from CodeWars.
 ---
 
 ## Solutions Index
