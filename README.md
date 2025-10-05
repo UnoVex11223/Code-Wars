@@ -8,7 +8,7 @@ Welcome to my personal collection of solutions for problems from CodeWars. This 
 
 ### Object-Oriented Programming
 
-| `Kata 8` | [Thinkful - Object Drills: Quarks]([https://www.codewars.com/kata/5880f02c65a78f56b400004e])) | [solution.py](./Object-Oriented/Quarks/) | Python |
+| `7 kyu` | [Thinkful - Object Drills: Quarks](https://www.codewars.com/kata/5882b052bdeafec15e0000e6) | [solution.py](./Object-Oriented/Quarks/) | Python |
 
 ### Data Structures
 
