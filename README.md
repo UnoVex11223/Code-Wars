@@ -1,6 +1,7 @@
 # Code-Wars
 
-Welcome to my personal collection of solutions for problems from CodeWars.
+Welcome to my personal collection of solutions for problems from sites like Codeforces.
+
 ---
 
 ## Solutions Index
